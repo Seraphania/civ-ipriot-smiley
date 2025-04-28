@@ -93,12 +93,11 @@ Address the following tasks and questions based on the code provided in this rep
 3. Run the project locally by executing the `main.py` file
 4. Evidence this by providing screenshots of the project directory structure and the output of the `main.py` file
 
-![Project Dirctory](\screenshots\project-directory.png)  
-![main.py execution](\screenshots\mainpy-execution.png)  
+![Project Dirctory](/civ-ipriot-smiley/screenshots/project-directory.png)  
+![main.py execution](/civ-ipriot-smiley/screenshots/mainpy-execution.png)  
 
 
-If you are running on a Raspberry Pi, you can use the following command to run the project and then screenshot the result:
-
+~~If you are running on a Raspberry Pi, you can use the following command to run the project and then screenshot the result:~~  
 ```bash
 ls
 python3 main.py
