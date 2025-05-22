@@ -26,6 +26,9 @@ class Smiley:
             O, Y, Y, Y, Y, Y, Y, O,
         ]
 
+    def complexion(self):
+        return self.YELLOW
+
     def dim_display(self, dimmed=True):
         """
         Set the SenseHat's light intensity to low (True) or high (False)
