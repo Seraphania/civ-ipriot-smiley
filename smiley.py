@@ -28,6 +28,9 @@ class Smiley:
         ]
 
     def complexion(self):
+        """
+        Return the complexion for a smiley instance
+        """
         return self.my_complexion
 
     def dim_display(self, dimmed=True):
