@@ -357,6 +357,7 @@ Include a screenshot of the sad smiley or the modified `main.py`:
   2. **Test color functionality for the Sad smiley:** Execute the program to verify that the Sad smiley now appears blue.
 
   3. **Ensure the Happy smiley remains yellow:** Confirm that changes to the Sad smiley do not affect the default color of the Happy smiley, which should still display in yellow.
+   ![Happy and Sad](./screenshots/happy_sad.png)
 
   4. **Design and Implement An Angry Smiley:** Create an Angry smiley class that inherits from the `Smiley` class. Set the color of the Angry smiley to red by passing `self.RED` as the `complexion` argument in the superclass call.
 
